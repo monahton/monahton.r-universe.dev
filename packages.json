@@ -2,5 +2,14 @@
     {
         "package": "GencoDymo2",
         "url": "https://github.com/monahton/GencoDymo2"
+        "branch": "main",
+        "metadata": {
+            "review": {
+                "status": "reviewed",
+                "version": "1.0.1",
+                "organization": "monahton",
+                "url": "https://monahton.github.io/GencoDymo2/"
+            }
+        }
     }
 ]
